@@ -1,0 +1,11 @@
+{
+  "name": "SportsPlayer",
+  "version": "1.0.0",
+  "description": "Manages a stat of a sport player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peleg",
+  "license": "ISC"
+}
