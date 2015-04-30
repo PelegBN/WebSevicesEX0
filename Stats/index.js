@@ -32,5 +32,5 @@ Stats.prototype.substruct = function(amount)
 	}
 };
 
-
+//-- Making this class accessable to public -------
 module.exports = Stats;
